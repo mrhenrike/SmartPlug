@@ -18,7 +18,17 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - IP Gateway: 192.168.0.1
 - IP Arduino/NodeMCU: 192.168.0.100
 
+## Hardware e Software
+- Protótipo com NodeMCU v1.0
+- Alimentação do NodeMCU com Fonte Externa de 5v
+- Módulo Rele de 4 canais
+- 4 plugs de tomadas (macho/fêmea) + 1 filtro de linha ligado em 127v
+- Aplicação Web desenvolvido em linguagem PHP utilizando Framework Laravel v5.5
+
 ## Sketch do Projeto em Protoboard
 <p align="center">
   <img src="img_exp/smartplug_bb.png" width="350"/>
+</p>
+<p align="center">
+  <img src="img_exp/smartplug_prototipo_2.jpg" width="350"/>
 </p>
