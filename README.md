@@ -6,6 +6,11 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - Bhrandon Borges
 - Lucas Toloto
 
+## Diretórios
+- smartplug_webserver (código fonte do projeto em arduino e sketch no fritzing)
+- projeto_web (código fonte da aplicação web, criada em Laravel v5.5)
+- img_exp (imagens do protótipo construido)
+
 ## Configurações do projeto atual para fins de testes
 - ESSID: UniaoGeek
 - Chave Wifi: geek@uniao
@@ -14,8 +19,6 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - IP Arduino/NodeMCU: 192.168.0.100
 
 ## Sketch do Projeto em Protoboard
-
-## Diretórios
-- smartplug_webserver (código fonte do projeto em arduino e sketch no fritzing)
-- projeto_web (código fonte da aplicação web, criada em Laravel v5.5)
-- img_exp (imagens do protótipo construido)
+<p align="center">
+  <img src="img_exp/smartplug_bb.png" width="350"/>
+</p>
