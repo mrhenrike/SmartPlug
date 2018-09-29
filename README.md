@@ -18,6 +18,10 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - IP Gateway: 192.168.0.1
 - IP Arduino/NodeMCU: 192.168.0.100
 
+## Configurações do Banco de Dados
+- Como o DB pode ser relativo à cada computador, verifique as tabelas nas migrates do laravel e configure seu DB.
+- Caso tenha problemas, é só entrar em contato.
+
 ## Hardware e Software
 - Protótipo com NodeMCU v1.0
 - Alimentação do NodeMCU com Fonte Externa de 5v
@@ -26,6 +30,9 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - Aplicação Web desenvolvido em linguagem PHP utilizando Framework Laravel v5.5
 
 ## Sketch do Projeto em Protoboard
+<p align="center">
+  <img src="img_exp/smartplug-logotipo.png"/>
+</p>
 <p align="center">
   <img src="img_exp/smartplug_bb.png" width="350"/>
 </p>
