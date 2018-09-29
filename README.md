@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="img_exp/smartplug-logotipo.png"/>
+</p>
 # Smart Plug v1.2
 Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de Rede Local. O projeto pode ser adaptado para conexões externas via internet.
 
@@ -30,9 +33,6 @@ Repositório do Projeto de Sistema Web para Controle de Arduino via Interface de
 - Aplicação Web desenvolvido em linguagem PHP utilizando Framework Laravel v5.5
 
 ## Sketch do Projeto em Protoboard
-<p align="center">
-  <img src="img_exp/smartplug-logotipo.png"/>
-</p>
 <p align="center">
   <img src="img_exp/smartplug_bb.png" width="350"/>
 </p>
